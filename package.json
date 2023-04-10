@@ -1,15 +1,15 @@
 {
-  "name": "mimino",
+  "name": "team-project-mimino",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://OlhaLushina.github.io/mimino",
+  "homepage": "https://github.com/SerhiiRud/team-project-mimino",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /mimino/"
+    "build": "parcel build src/*.html --public-url /team-project-mimino/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OlhaLushina/mimino.git"
+    "url": "git+https://github.com/SerhiiRud/team-project-mimino.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
